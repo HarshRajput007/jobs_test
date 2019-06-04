@@ -1,0 +1,12 @@
+{
+  "error": false,
+  "jobs": [
+    {
+      "name": "Programmers Are Too Lazy To Implement Password Encryption: Study!",
+      "description": "A group of researchers from The University of Bonn has found that computer science students need to be explicitly told to employ important password security measures. This research carried out by the German academics found that without prompting, the programmers didn’t feel the need to store the passwords securely!",
+      "experience": "https://fossbytes.com/wp-content/uploads/2019/03/programmer-coding-640x360.jpg",
+      "type": "Today",
+      "link": ""
+    }
+  ]
+}
